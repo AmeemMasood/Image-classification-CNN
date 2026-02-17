@@ -82,7 +82,7 @@ pip install torch torchvision matplotlib numpy
 
 ### Run the Notebook
 ```bash
-jupyter notebook cifar10_classifier.ipynb
+
 ```
 
 The notebook covers:
@@ -97,14 +97,12 @@ The notebook covers:
 ## 📦 Dependencies
 
 - Python 3.x
-- PyTorch / TensorFlow
+- PyTorch 
 - torchvision
 - matplotlib
 - numpy
-- Jupyter Notebook
+- Google Colab
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
