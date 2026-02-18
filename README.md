@@ -82,7 +82,7 @@ pip install torch torchvision matplotlib numpy
 
 ### Run the Notebook
 ```bash
-
+https://colab.research.google.com/drive/1nLYF6SN16-NYQw7BwmAraVaso1ikqBGS?usp=sharing
 ```
 
 The notebook covers:
